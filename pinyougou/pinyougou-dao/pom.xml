@@ -8,6 +8,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <!--2-->
     <!--1-->
     <!--3-->
+    <!--3-->
     <parent>
         <artifactId>pinyougou</artifactId>
         <groupId>com.pinyougou</groupId>
